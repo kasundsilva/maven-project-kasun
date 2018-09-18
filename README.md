@@ -1,4 +1,4 @@
-# maven-project
+# maven-project-kasun
 
 This is my Maven project from MuleSoft's **Advanced Development** class
 
