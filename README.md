@@ -12,3 +12,4 @@ This is my Maven project from MuleSoft's **Advanced Development** class
 3. (Optional) Set your MULE_HOME env variable: `export MULE_HOME={locationOfMuleInstall}`
 
 4. Package and deploy: `mvn install`
+
